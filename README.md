@@ -5,8 +5,8 @@ Mario Party 4
 <!--
 Replace with your repository's URL.
 -->
-[Build Status]: https://github.com/zeldaret/tww/actions/workflows/build.yml/badge.svg
-[actions]: https://github.com/zeldaret/tww/actions/workflows/build.yml
+[Build Status]: https://github.com/rainchus/marioparty4/actions/workflows/build.yml/badge.svg
+[actions]: https://github.com/rainchus/marioparty4/actions/workflows/build.yml
 <!---
 Code progress URL:
 https://progress.decomp.club/data/[project]/[version]/all/?mode=shield&measure=code
